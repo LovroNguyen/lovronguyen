@@ -15,7 +15,7 @@ Hi, my I’m currently learning at *[University of Greenwich](https://greenwich.
 </div>  
 
 ## 💻Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,ts)](https://skillicons.dev)
 
 [![](https://visitcount.itsvg.in/api?id=lxvroo&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
