@@ -17,8 +17,15 @@ Hi, my I’m currently learning at *[University of Greenwich](https://greenwich.
 ## 💻Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,ts)](https://skillicons.dev)
 
-[![](https://visitcount.itsvg.in/api?id=lxvroo&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lovronguyen&theme=date_night)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+<div align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lovronguyen&theme=transparent"/>
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lovronguyen&theme=transparent&layout=compact&langs_count=8&card_width=320" />
+</a>
+</div>
+<br><br>
 
 ✨ I'm currently still studing and experince new things! Feel free to contact me.
