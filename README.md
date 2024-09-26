@@ -6,16 +6,14 @@ Hi, my I’m currently learning at *[University of Greenwich](https://greenwich.
 <div align="center">
 <br><br>
 <pre>
-    💼 Fresher @ GRE • !Full stack dev • !Platform Engineer
-    💻 !System programming languages • !DevOps
-    📖 !Software architecture • !Distributed systems
+    💼 Fresher @ GRE • !Full stack dev 
     🎮 Music • Games • Anime • Code • Art
 </pre>
 <br><br>
 </div>  
 
 ## 💻Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,ts,java)](https://skillicons.dev)
 
 <br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -27,4 +25,4 @@ Hi, my I’m currently learning at *[University of Greenwich](https://greenwich.
 
 <br><br>
 
-✨ I'm currently still studing and experince new things! Feel free to contact me.
+✨ I'm currently still studying and experiencing new things! Feel free to contact me.
