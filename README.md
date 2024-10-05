@@ -1,7 +1,7 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/699903391618433075)](https://discord.com/users/699903391618433075)
 
 ## About Me
-Hi, my I’m currently learning at *[University of Greenwich](https://greenwich.edu.vn/en/english)*
+Hi, I’m currently learning at *[University of Greenwich](https://greenwich.edu.vn/en/english)*
 
 <div align="center">
 <br><br>
