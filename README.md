@@ -13,7 +13,7 @@ Hi, I’m currently learning at *[University of Greenwich](https://greenwich.edu
 </div>  
 
 ## 💻Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,ts,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,python,java)](https://skillicons.dev)
 
 <br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
