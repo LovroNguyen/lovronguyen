@@ -7,6 +7,7 @@ Hi, I’m currently learning at *[University of Greenwich](https://greenwich.edu
 <br><br>
 <pre>
     💼 @ GRE • !Full stack dev 
+    🎮 Music • Games • Anime • Code • Art
 </pre>
 <br><br>
 </div>  
